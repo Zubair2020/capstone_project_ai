@@ -1,0 +1,26 @@
+<annotation>
+	<folder>right_SAC305PANEL1_0000TSC</folder>
+	<filename>right44.jpg</filename>
+	<path>C:\Users\Mohd Zubair Akhtar\Desktop\new_left_SAC305_PANEL1_0500TSC\0000TSC_splitting\PANEL1_0000TSC\right_SAC305PANEL1_0000TSC\right44.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>140</width>
+		<height>264</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>led</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>97</ymin>
+			<xmax>122</xmax>
+			<ymax>190</ymax>
+		</bndbox>
+	</object>
+</annotation>
